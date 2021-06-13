@@ -1,8 +1,8 @@
 [
   {
     "name": "Main Website",
-    "url": "https://www.rapiermc.com",
-    "icon": "https://favicons.githubusercontent.com/www.rapiermc.com",
+    "url": "https://rapiermc.com",
+    "icon": "https://rapiermc.com/images/favicon.svg",
     "slug": "main-website",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1388,
-    "timeDay": 1388,
-    "timeWeek": 1388,
-    "timeMonth": 1388,
-    "timeYear": 1388,
+    "time": 1016,
+    "timeDay": 1016,
+    "timeWeek": 1016,
+    "timeMonth": 1016,
+    "timeYear": 1016,
     "dailyMinutesDown": {}
   }
 ]
