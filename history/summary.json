@@ -5,16 +5,16 @@
     "icon": "https://rapiermc.com/images/favicon.svg",
     "slug": "main-website",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.94%",
-    "time": 929,
-    "timeDay": 666,
-    "timeWeek": 788,
-    "timeMonth": 972,
-    "timeYear": 929,
+    "uptimeYear": "99.95%",
+    "time": 924,
+    "timeDay": 704,
+    "timeWeek": 756,
+    "timeMonth": 973,
+    "timeYear": 924,
     "dailyMinutesDown": {
       "2021-07-05": 34
     }
