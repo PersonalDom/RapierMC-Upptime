@@ -4,18 +4,19 @@
     "url": "https://rapiermc.com",
     "icon": "https://rapiermc.com/images/favicon.svg",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 861,
-    "timeDay": 787,
-    "timeWeek": 792,
-    "timeMonth": 770,
-    "timeYear": 861,
+    "time": 857,
+    "timeDay": 644,
+    "timeWeek": 755,
+    "timeMonth": 762,
+    "timeYear": 857,
     "dailyMinutesDown": {
+      "2021-09-13": 0,
       "2021-07-05": 34
     }
   }
