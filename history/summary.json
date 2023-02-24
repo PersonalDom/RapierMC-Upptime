@@ -5,18 +5,19 @@
     "icon": "https://rapiermc.com/images/favicon.svg",
     "slug": "main-website",
     "status": "down",
-    "uptime": "68.78%",
+    "uptime": "68.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "68.36%",
-    "time": 699,
+    "time": 700,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 721,
+    "timeYear": 722,
     "dailyMinutesDown": {
-      "2023-02-23": 65,
+      "2023-02-24": 68,
+      "2023-02-23": 1440,
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
@@ -133,8 +134,7 @@
       "2022-02-28": 1440,
       "2022-02-27": 1440,
       "2022-02-26": 765,
-      "2022-02-25": 542,
-      "2022-02-24": 1440
+      "2022-02-25": 542
     }
   }
 ]
